@@ -1,0 +1,24 @@
+﻿<Window x:Class="гостиницы_ласт.WindowReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:гостиницы_ласт"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="WindowReport" Height="271.008"  Width="567" MaxHeight="271.008"  MaxWidth="567" MinHeight="271.008"  MinWidth="567">
+    <Grid>
+        <Grid>
+            <Label FontSize="15" Margin="20.031,20.023,358.969,0" Content="ФИО сотрудника" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <ComboBox  IsEditable="True" FontSize="15" Margin="220.031,20.023,0,0" Height="26.47" Name="EmloyeeIDCB" SelectionChanged="EmloyeeIDCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left"/>
+            <Label FontSize="15"  Margin="20.031,80.019,358.969,0"  Content="Дата начала отчета" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <xctk:DateTimePicker FontSize="15" Margin="220.031,80.029,0,0" Height="26.47" Format="LongDate" Name="StartDay" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left"/>
+            <Label FontSize="15"   Margin="20.031,140.013,358.969,0" Content="Дата конца отчета" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <xctk:DateTimePicker FontSize="15" Margin="220.031,140.023,0,0" Height="26.47" Format="LongDate" Name="LastDay" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left"/>
+        </Grid>
+        <Grid>
+            <Button Name="CreateBN" Content="Создать" FontSize="16" Margin="0,0,0,-0.196" Height="40.196" Width="240" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="CreateBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana"></Button>
+            <Button Name="CancelBN" Content="Отмена" FontSize="16"  Margin="0,0,0,-0.196" Height="40.196" Width="238.984" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="CancelBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana"></Button>
+        </Grid>
+    </Grid>
+</Window>

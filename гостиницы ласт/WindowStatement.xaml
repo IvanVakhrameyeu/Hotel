@@ -1,0 +1,21 @@
+﻿<Window x:Class="гостиницы_ласт.WindowStatement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+       Title="WindowReport" Height="211.008"  Width="567" MaxHeight="211.008"  MaxWidth="567" MinHeight="211.008"  MinWidth="567">
+    <Grid>
+        <Grid>
+            <Label FontSize="15"  Margin="20.013,19.999,358.986,0" Content="Клиент" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top" Width="180"/>
+            <ComboBox  IsEditable="True" FontSize="15" Margin="220.031,20.009,0,0" Height="26.47" Name="ClientCB" SelectionChanged="ClientCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" BorderBrush="#89000000" HorizontalAlignment="Left"/>
+            <Label FontSize="15"  Margin="20.013,80.006,358.986,0" Content="Номер регистрации" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top" Width="180"/>
+            <ComboBox  IsEditable="True" FontSize="15" Margin="220.015,80.006,0,0" Height="26.47" Name="RegistrationClientCB" SelectionChanged="RegistrationClientCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left" />
+        </Grid>
+        <Grid>
+            <Button Name="CreateBN" Content="Создать" FontSize="16" Margin="0,0,0,-1" Height="40.155" Width="240" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="CreateBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana"></Button>
+            <Button Name="CancelBN" Content="Отмена" FontSize="16"  Margin="0,0,0,-0.197" Height="40.155" Width="238.938" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="CancelBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana"></Button>
+        </Grid>
+    </Grid>
+</Window>

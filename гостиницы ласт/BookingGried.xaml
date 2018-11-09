@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="гостиницы_ласт.BookingGried"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+            mc:Ignorable="d" 
+             
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid FontFamily="Verdana" FontSize="11" ColumnHeaderHeight="49" IsReadOnly="True" AutoGenerateColumns="False"  Name="DataGridTotal" SelectionChanged="DataGridTotal_SelectionChanged" Background="{x:Null}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер регистрации" Binding="{Binding RegistrationID}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="За проживание"  Binding="{Binding PaymentL}"/>
+                <DataGridTextColumn Header="За услуги"  Binding="{Binding PaymentS}"/>
+                <DataGridTextColumn Header="К оплате"  Binding="{Binding TotalSumD}"/>
+                <DataGridTextColumn Header="ФИО работника" Binding="{Binding FullName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

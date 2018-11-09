@@ -1,0 +1,247 @@
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe.config
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.pdb
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\Service.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\App.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.cache
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.lref
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\App.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\Service.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.g.resources
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы_ласт.Properties.Resources.resources
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.exe
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.pdb
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.baml
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.g.cs
+C:\Users\Tony\Desktop\гостиницы ласт\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csprojResolveAssemblyReference.cache
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.ResolveComReference.cache
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\Service.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\App.g.cs
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.cache
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.lref
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.exe
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.pdb
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe.config
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.pdb
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\App.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\Service.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.baml
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.g.resources
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы_ласт.Properties.Resources.resources
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.GenerateResource.cache
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.CoreCompileInputs.cache
+C:\Users\vanov\Documents\Visual Studio 2017\Projects\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.CopyComplete
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe.config
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.exe
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\гостиницы ласт.pdb
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignColors.pdb
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csprojResolveAssemblyReference.cache
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.ResolveComReference.cache
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\AvailableRooms.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\BookingGried.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\Clients.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\MainMenu.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\MainWindow.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\Service.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowStatement.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\App.g.cs
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.cache
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт_MarkupCompile.lref
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\App.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\CheckFreeRoom.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\SearchClient.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\SearchService.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\Service.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\ServiceClients.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddClient.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddRegistration.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddService.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAddServiceClient.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowAutorization.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditAvailableRooms.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditClient.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditMainMenu.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditService.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowEditServiceClient.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowReport.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\WindowSearch.baml
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.g.resources
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы_ласт.Properties.Resources.resources
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.GenerateResource.Cache
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.csproj.CoreCompileInputs.cache
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.exe
+E:\Вани\YandexDisk\Программирование\гостиницы ласт\гостиницы ласт\obj\Debug\гостиницы ласт.pdb

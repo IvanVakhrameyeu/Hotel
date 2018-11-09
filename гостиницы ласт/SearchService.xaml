@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="гостиницы_ласт.SearchService"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:гостиницы_ласт"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid>
+        <DataGrid FontFamily="Verdana" FontSize="11" ColumnHeaderHeight="49" IsReadOnly="True" AutoGenerateColumns="False"  Name="DataGridService" SelectionChanged="DataGridService_SelectionChanged" Background="{x:Null}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Имя клиента" Binding="{Binding FullNameClient}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Наименование услуги" Binding="{Binding Service}" IsReadOnly="True"></DataGridTextColumn>                
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

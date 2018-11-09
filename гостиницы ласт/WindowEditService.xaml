@@ -1,0 +1,24 @@
+﻿<Window x:Class="гостиницы_ласт.WindowEditService"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:гостиницы_ласт"
+        mc:Ignorable="d"
+        Title="WindowEditService" Height="271.008"  Width="567" MaxHeight="271.008"  MaxWidth="567" MinHeight="271.008"  MinWidth="567">
+    <Grid>
+
+        <Grid>
+            <Label FontSize="15"  Margin="20.031,20.023,358.969,0" Content="Номер услуги" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <TextBox IsEnabled="False" FontSize="15" Margin="220.02,20.023,0,0" Height="26.47" Name="ServiceIDTB" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" TextAlignment="Right" HorizontalAlignment="Left" Width="319.969" BorderBrush="{x:Null}"/>
+            <Label FontSize="15"  Margin="20.031,80.019,358.969,0"  Content="Название услуги" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <TextBox FontSize="15"  Margin="220.02,80.019,0,0" Height="26.47" Name="ServiceTB" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" TextAlignment="Right" HorizontalAlignment="Left" Width="319.969" BorderBrush="{x:Null}"/>
+            <Label FontSize="15"   Margin="20.031,140.013,358.969,0" Content="Цена" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <TextBox FontSize="15" Margin="220.02,140.013,0,0" Height="26.47" Name="CostTB" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" TextAlignment="Right" HorizontalAlignment="Left" Width="319.969" BorderBrush="{x:Null}"/>
+        </Grid>
+        <Grid>
+            <Button Name="SaveBN" Content="Сохранить" FontSize="16" Height="38.959" Width="240" HorizontalAlignment="Left" Click="AddBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana" VerticalAlignment="Bottom"/>
+            <Button Name="CancelBN" Content="Отмена" FontSize="16"  Margin="320.02,0,0,0" Height="40" Click="CancelBN_Click" BorderBrush="#FF50B2E2" Background="#FF50B2E2" FontFamily="Verdana" HorizontalAlignment="Left" Width="238.98" VerticalAlignment="Bottom"/>
+        </Grid>
+    </Grid>
+</Window>

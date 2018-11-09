@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="гостиницы_ласт.App" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="гостиницы_ласт.AvailableRooms" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAABAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>AvailableRooms.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.BookingGried" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookingGried.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.CheckFreeRoom" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckFreeRoom.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.Clients" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAABAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Clients.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.MainMenu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAABAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>MainMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAwAAAAEAAAgIAAgAAAAAgIAAAEAAAEgCAAAAQA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.Report" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAAAgAAAAAgAEAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="гостиницы_ласт.SearchClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.SearchService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchService.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.Service" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAABAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Service.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.ServiceClients" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAABAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ServiceClients.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowAddClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAABAAAAAAAAAAAAIAAIAAAAAAAAA=</HashCode>
+      <FileName>WindowAddClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowAddRegistration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAEAgAAACgAAIAAAAQAABAAAIACAACAQAIBgA=</HashCode>
+      <FileName>WindowAddRegistration.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowAddService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowAddService.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowAddServiceClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAAAACAAAgAAAAAAAAAAAAAAIAIAAAEAAAAAA=</HashCode>
+      <FileName>WindowAddServiceClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowAutorization" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowAutorization.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowEditAvailableRooms" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowEditAvailableRooms.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowEditClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgABAAAAAAAAAAAAIAAIAAIAAAAAA=</HashCode>
+      <FileName>WindowEditClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowEditMainMenu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAQAAAAAgAAAAAAAAAAAQAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowEditMainMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowEditService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowEditService.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowEditServiceClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAACAAAgAAAAAAAAAAAAAAIAKAAAMAACAAA=</HashCode>
+      <FileName>WindowEditServiceClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowReport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAIAAAAIAAA=</HashCode>
+      <FileName>WindowReport.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowSearch" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAgAAAAAAAAAAAAAABAAkAABAAAMAA=</HashCode>
+      <FileName>WindowSearch.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WindowStatement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAgAAAAAAgAAAAgAAIAAAIAAAAAAgA=</HashCode>
+      <FileName>WindowStatement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="гостиницы_ласт.WorkWithBD" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAggAAAAAAiAACAAAAgAAJAAAQAAAMAiAAABAAA=</HashCode>
+      <FileName>WorkWithBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="гостиницы_ласт.WorkWithWord" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAiAAAAAAAAAQAAAAAAAQEAAABAAAA=</HashCode>
+      <FileName>WorkWithWord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

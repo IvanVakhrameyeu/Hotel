@@ -1,0 +1,25 @@
+﻿<Window x:Class="гостиницы_ласт.WindowEditServiceClient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:гостиницы_ласт"
+        mc:Ignorable="d"
+    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="WindowAddServiceClient" Height="271.008"  Width="567" MaxHeight="271.008"  MaxWidth="567" MinHeight="271.008"  MinWidth="567">
+    <Grid>
+        <Grid>
+            <Label FontSize="15" Margin="20.031,20.023,358.969,0" Content="Клиент" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <ComboBox IsEditable="True" FontSize="15" Margin="220,20.023,0,0" Height="26.47" Name="RegistrationIDCB" SelectionChanged="RegistrationIDCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left" />
+            <Label FontSize="15"  Margin="20.031,80.019,358.969,0"  Content="Название услуги" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <ComboBox  IsEditable="True" FontSize="15" Margin="220,80.029,0,0" Height="26.47" Name="ServiceIDCB" SelectionChanged="ServiceIDCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left"/>
+            <Label FontSize="15"   Margin="20.031,140.013,358.969,0" Content="Статус" Height="26.48" FontFamily="Verdana" VerticalAlignment="Top"/>
+            <ComboBox  IsEditable="True" FontSize="15" Margin="220,140.013,0,0" Height="27.2" Name="StatusCB" SelectionChanged="StatusCB_SelectionChanged" Background="#FFFFFFCC" FontFamily="Verdana" VerticalAlignment="Top" Width="319.969" HorizontalAlignment="Left"/>
+
+        </Grid>
+        <Grid>
+            <Button Name="SaveBN" Content="Сохранить" FontSize="16" Margin="0,0,0,-1" Height="41" Width="240" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="SaveBN_Click" Background="#FF50B2E2" BorderBrush="#FF50B2E2" FontFamily="Verdana"></Button>
+            <Button Name="CancelBN" Content="Отмена" FontSize="16"  Margin="0,0,0,0" Height="40" Width="238.969" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="CancelBN_Click" BorderBrush="#FF50B2E2" Background="#FF50B2E2" FontFamily="Verdana"></Button>
+        </Grid>
+    </Grid>
+</Window>

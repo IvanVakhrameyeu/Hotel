@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="гостиницы_ласт.AvailableRooms"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid>
+        <Grid>
+            <DataGrid FontFamily="Verdana" FontSize="11" ColumnHeaderHeight="49"  IsReadOnly="True" AutoGenerateColumns="False"  x:Name="DataGridTotal" SelectionChanged="DataGridTotal_SelectionChanged" Background="{x:Null}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер" Binding="{Binding RoomID}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Тип номера"  Binding="{Binding Class}"/>
+                    <DataGridTextColumn Header="Количество кроватей" Binding="{Binding Berths}"/>
+                    <DataGridTextColumn Header="Цена за сутки" Binding="{Binding DayCost}"/>
+                    <DataGridTextColumn Header="Основная информация" Binding="{Binding Info}"/>
+                    <DataGridTextColumn Header="Дополнительная информация" Binding="{Binding QQ}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>
